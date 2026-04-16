@@ -35,7 +35,7 @@ Type the reason you are using this may be any diagnosis purpose.
 <img width="564" height="337" alt="image" src="https://github.com/user-attachments/assets/83a2c233-f072-40f6-8334-1e469e0cbe01" />
 
 You will see new tab with cmd window.
-<img width="81" height="26" alt="image" src="https://github.com/user-attachments/assets/91ce59e7-a402-4df2-8dcd-9bc23a53cab9" />
+<img width="1897" height="790" alt="image" src="https://github.com/user-attachments/assets/c7e0c2c0-c11b-489b-a19f-d2895b807728" />
 
 2) Run powershell from the current CMD window. Type powershell and hit enter. Now the powershell promt will open.
    <img width="1183" height="527" alt="image" src="https://github.com/user-attachments/assets/0b8cdda8-2434-446d-ada8-85eb51ea483b" />
@@ -87,7 +87,12 @@ Write-Host "Output location: $outFolder"
  ``` 
 4) The script will identify your computer's username and exeute the code.
    <img width="1085" height="674" alt="image" src="https://github.com/user-attachments/assets/b181e6ab-eb6a-4dca-b6d0-244284d37637" />
-5) Wait for the process to be completed and you will see console messages as: And you will see folder created in your Downloads folder; open it and you will see log files.
+5) Wait for the process to be completed and you will see console messages as:
+*SDU has finished collecting the requested information.
+Elapsed time: 2m35s
+Archived logs are located at:
+  C:\Users\<username>\Downloads\SDU_<data_timestamp>\<filename>_sdulog.zip* <br>
+And you will see folder created in your Downloads folder; open it and you will see log files.
 <img width="1120" height="658" alt="image" src="https://github.com/user-attachments/assets/d8c4653d-be2d-435e-b75a-4b31208c6213" />
 
 <img width="1153" height="296" alt="image" src="https://github.com/user-attachments/assets/6e2d2c84-482a-4f8c-aaa8-f97d38b37b7c" />
