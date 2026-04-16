@@ -1,8 +1,8 @@
 This method Works for Window Only !!!
 
 ## Quick Navigation
-- [Option 1: Live Response (Sophos Central)](#option-1-live-response-sophos-central)
-- [Option 2: Manual PowerShell Script](#option-2-manual-powershell-script)
+- [Option 1: Manual PowerShell Script](#**Collecting Logs From Manual Script**)
+- [Option 2: Live Response (Sophos Central)](#**Live Response (Sophos Central)**)
 
 **Collecting Logs From Manual Script**
 
@@ -21,3 +21,4 @@ This method Works for Window Only !!!
    <img width="1265" height="276" alt="image" src="https://github.com/user-attachments/assets/64d1d96d-aeaf-4db9-9877-669255a6cef6" />
 
 
+**Live Response (Sophos Central)**
