@@ -1,5 +1,9 @@
 This method Works for Window Only !!!
 
+## Quick Navigation
+- [Option 1: Live Response (Sophos Central)](#option-1-live-response-sophos-central)
+- [Option 2: Manual PowerShell Script](#option-2-manual-powershell-script)
+
 **Collecting Logs From Manual Script**
 
 1) Download *script.ps1* file
