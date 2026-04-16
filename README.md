@@ -21,4 +21,4 @@ This method Works for Window Only !!!
    <img width="1265" height="276" alt="image" src="https://github.com/user-attachments/assets/64d1d96d-aeaf-4db9-9877-669255a6cef6" />
 
 
-## Option 2: Live Response
+## Option 2: Live Response (Sophos Central)
