@@ -1,10 +1,10 @@
 This method Works for Window Only !!!
 
 ## Quick Navigation
-- [Option 1: Manual PowerShell Script](#Collecting Logs From Manual Script)
-- [Option 2: Live Response (Sophos Central)](#Live Response (Sophos Central))
+- [Option 1: Manual PowerShell Script](#option-1-manual-powershell-script)
+- [Option 2: Live Response (Sophos Central)](#option-2-live-response-sophos-central)
 
-## **Option 1: Manual PowerShell Script**
+## Option 1: Manual PowerShell Script
 
 1) Download *script.ps1* file
 2) Run powershell on your windows and run the script from the location you have a file stored.
@@ -21,4 +21,4 @@ This method Works for Window Only !!!
    <img width="1265" height="276" alt="image" src="https://github.com/user-attachments/assets/64d1d96d-aeaf-4db9-9877-669255a6cef6" />
 
 
-## **Live Response (Sophos Central)**
+## Option 2: Live Response
