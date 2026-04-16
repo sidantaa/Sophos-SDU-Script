@@ -4,7 +4,7 @@ This method Works for Window Only !!!
 - [Option 1: Manual PowerShell Script](#Collecting Logs From Manual Script)
 - [Option 2: Live Response (Sophos Central)](#Live Response (Sophos Central))
 
-## **Collecting Logs From Manual Script**
+## **Option 1: Manual PowerShell Script**
 
 1) Download *script.ps1* file
 2) Run powershell on your windows and run the script from the location you have a file stored.
