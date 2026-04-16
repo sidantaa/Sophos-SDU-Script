@@ -85,4 +85,13 @@ Write-Host "Using output folder: $outFolder"
 Write-Host "`nSDU completed."
 Write-Host "Output location: $outFolder"
  ``` 
+4) The script will identify your computer's username and exeute the code.
+   <img width="1085" height="674" alt="image" src="https://github.com/user-attachments/assets/b181e6ab-eb6a-4dca-b6d0-244284d37637" />
+5) Wait for the process to be completed and you will see console messages as: And you will see folder created in your Downloads folder; open it and you will see log files.
+<img width="1120" height="658" alt="image" src="https://github.com/user-attachments/assets/d8c4653d-be2d-435e-b75a-4b31208c6213" />
+
+<img width="1153" height="296" alt="image" src="https://github.com/user-attachments/assets/6e2d2c84-482a-4f8c-aaa8-f97d38b37b7c" />
+
+<img width="1136" height="279" alt="image" src="https://github.com/user-attachments/assets/c60b6468-5168-4988-9f28-b0a627221ca7" />
+
 
