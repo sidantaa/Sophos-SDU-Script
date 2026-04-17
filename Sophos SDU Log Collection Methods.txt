@@ -4,11 +4,11 @@ This project documents two standardized methods for collecting diagnostic logs f
 
 A PowerShell-based automation script is used to collect Sophos Diagnostic Utility (SDU) logs directly from an endpoint. The script:
 
-Automatically detects the logged-in user context when available
-Falls back safely to system-wide paths (e.g., ProgramData) in SYSTEM or non-interactive sessions
-Creates a timestamped output directory for organized log storage
-Executes the Sophos Diagnostic Utility (sducli.exe) with correctly formatted parameters
-Ensures consistent log collection across different user environments
+- Automatically detects the logged-in user context when available
+- Falls back safely to system-wide paths (e.g., ProgramData) in SYSTEM or non-interactive sessions
+- Creates a timestamped output directory for organized log storage
+- Executes the Sophos Diagnostic Utility (sducli.exe) with correctly formatted parameters
+- Ensures consistent log collection across different user environments
 
 This method is useful for manual investigations, endpoint troubleshooting, and situations where Live Response access is not available.
 
@@ -16,9 +16,9 @@ This method is useful for manual investigations, endpoint troubleshooting, and s
 
 The second method utilizes the Live Response capability in Sophos Central to execute SDU directly on endpoints remotely. This approach:
 
-Runs under SYSTEM context for full diagnostic visibility
-Enables remote log collection without user interaction
-Automatically gathers comprehensive endpoint telemetry
-Stores output in system-defined or configured directories
+- Runs under SYSTEM context for full diagnostic visibility
+- Enables remote log collection without user interaction
+- Automatically gathers comprehensive endpoint telemetry
+- Stores output in system-defined or configured directories
 
 This method is primarily used in incident response scenarios and centralized security investigations.
